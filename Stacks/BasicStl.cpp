@@ -8,6 +8,7 @@ int main(){
     st.push(30);
     st.pop(); // remove at top
     st.push(40);
-    cout<<st.top()<<endl;
+    cout<<st.top();
+  
     cout<<st.size()<<endl;
 }
